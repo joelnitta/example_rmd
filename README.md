@@ -4,11 +4,11 @@ Example of using Rmarkdown to generate a report using [gapminder](https://www.ga
 
 ## Data
 
-The gapminder data is stored as CSV file in `data/gapminder.tsv`.
+The gapminder data is stored as CSV file in `[data/gapminder.tsv](data/gapminder.tsv)`.
 
 ## Summary of what the code does
 
-The code in the Rmarkdown file (`report.Rmd`) loads the gapminder data, cleans the data, builds a model of life expectancy by year for each country in the dataset, then plots the estimated increase in life expectancy per year as a barplot.
+The code in the Rmarkdown file (`[report.Rmd](report.Rmd)`) loads the gapminder data, cleans the data, builds a model of life expectancy by year for each country in the dataset, then plots the estimated increase in life expectancy per year as a barplot.
 
 ## Generating the report
 
