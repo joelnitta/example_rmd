@@ -4,7 +4,7 @@ Example of using Rmarkdown to generate a report using [gapminder](https://www.ga
 
 ## Data
 
-The gapminder data is stored as CSV file in [`data/gapminder.tsv`](data/gapminder.tsv). It includes per capita GDP, population, and life expectancy from the 1950s to 2000s for various countries.
+The gapminder data is stored as CSV file in [`data/gapminder.csv`](data/gapminder.csv). It includes per capita GDP, population, and life expectancy from the 1950s to 2000s for various countries.
 
 ## Summary of what the code does
 
