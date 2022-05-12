@@ -17,7 +17,7 @@ library(rmarkdown)
 
 ```{r load-data}
 # Load raw gapminder data
-gapminder_raw <- read_tsv("data/gapminder.tsv")
+gapminder_raw <- read_csv("data/gapminder.csv")
 # Create column with relative year starting at 0 for model
 gapminder <- mutate(gapminder_raw, year_rel = year - min(year))
 ```
